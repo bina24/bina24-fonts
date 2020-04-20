@@ -5,7 +5,7 @@ Combined [DejaVu Sans](https://github.com/web-fonts/dejavu-sans) and [BPG Web 00
 ### Install
 
 ```
-npm install bina24/bina24-font --save
+npm install bina24/bina24-fonts --save
 ```
 
 ## Licence
