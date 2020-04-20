@@ -3,11 +3,11 @@
   "version": "2.1.0",
   "description": "DejaVu Sans + BPG WEB 001 Caps Web-Font Package",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "dejavu-sans", "bpg-web-001-caps", "bpg-nino-mtavruli"],
-  "homepage": "https://github.com/bina24/bina24-font",
+  "homepage": "https://github.com/bina24/bina24-fonts",
   "author": "Levan Velijanashvili <me@stichoza.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bina24/bina24-font.git"
+    "url": "https://github.com/bina24/bina24-fonts.git"
   },
   "licenses": [
     {
